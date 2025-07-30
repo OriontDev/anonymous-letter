@@ -3,7 +3,8 @@ function Letter( {color, recipient, message }){
     const style = {
         padding: "5px",
         height: "400px",
-        width: "400px",         // fixed width
+        maxWidth: "400px",
+        width: "100%",         // fixed width
         border: "solid 5px black",
         display: "flex",
         flexDirection: "column",
