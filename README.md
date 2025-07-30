@@ -1,12 +1,28 @@
-# React + Vite
+# 📬 Anonymous Letter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Anonymous Letter** is a minimalist web app built with **React.js + Vite** and also powered by **Firebase Firestore**, where users can send anonymous letters to anyone. No accounts, no names, just words.
 
-Currently, two official plugins are available:
+You can leave heartfelt messages, secret compliments, or even a surprise note to brighten someone’s day, and they’ll never know it was you.  
+Want to know if someone left a message for you? Just search your name and see!
+(inspired by the we "The Unsent Project")
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ✅ **Send a letter** to anyone by their name, no registration required.
+- 🙈 **Stay anonymous** your name is never asked or stored.
+- 🔍 **Search** for your name to check if someone left a letter for you.
+- 🎨 **Choose a background color** to make your letter unique and personal.
+- 📱 **Responsive design** works on desktop and mobile.
+
+---
+
+## 🛠️ Built With
+
+- ⚛️ [**React.js**](https://reactjs.org/) with [**Vite**](https://vitejs.dev/) — for lightning-fast development.
+- 🔥 [**Firebase Firestore**](https://firebase.google.com/docs/firestore) — for real-time and secure data storage.
+- 🛣️ [**React Router DOM**](https://reactrouter.com/) (using `HashRouter`) — for navigation and GitHub Pages compatibility.
+- ☁️ [**GitHub Pages**](https://pages.github.com/) — for free and easy deployment.
+
+---
