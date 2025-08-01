@@ -10,7 +10,7 @@ function Header(){
 
     return(
         <div className="header">
-            <h1 style={style} onClick={() => navigate("/")}>Anonymous Letter</h1>
+            <h1 style={style} onClick={() => navigate("/")}>💌Anonymous Letter💌</h1>
         </div>
     )
 }
